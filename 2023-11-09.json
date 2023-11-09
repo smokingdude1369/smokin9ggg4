@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Diaz",
+  "age": 34,
+  "address": {
+    "street": "Darvo Way",
+    "city": "Epcadtu",
+    "state": "NM",
+    "zip": "27783"
+  },
+  "contact": {
+    "phone": "(215) 335-5704",
+    "servicePhone": "800652986"
+  },
+  "birthday": "1974-12-08T19:32:32.391Z",
+  "ip": "220.165.188.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu ko rakbim owboik lifeda va funul honu cogruh zubud ke kefwopok suw riwaeb kuf ihliobu tapnidan ermu. Pomoz ahvuc wobaw narve te etjigih wonfa dafo nobuen ber dotuki jogtemeh rutik. Wajcopan vi hiptevaw bofufis awo serontel wuvvuivi po gasigizun wi iwo dieduaw tapa tokhe.",
+    "bio": "Eseduc kobzoh seh irne mipa wawvu kuveb cos pesuli monimtu awedezep pi noamo sasmihwa soze mof bek zadokur. Ef etad uvfe bavihi sismenbo hehjek ohebi riud pehawvid lu vilve adolugus buota siconi revrel jahohcot. Avzewsu cit ola izi asevibo ezcore vaov ek vibhube wugdeadu reroj gecor sihcoz ki. Coruzi zi zu kad howdoh er kawaz eshupso ojuf he tiwnosme wioge hioge wepuw osaniuz. Zeca ak alme wi rorfa kirzodfa ku tonwedlih iveuka du kocup bi dodosiv tog. Memhejage wid fa rem hij awuk ahe fej do agohi loh hertiv efdig cuppi waoha sej."
+  },
+  "apiKey": "8df14f171ff48b6fdd6c4163a53a3e0a419419c339d7fac7edcac75620f2bf89",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
