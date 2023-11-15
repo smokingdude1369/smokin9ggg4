@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Mack",
+  "age": 52,
+  "address": {
+    "street": "Muvas Junction",
+    "city": "Cojuhuref",
+    "state": "MN",
+    "zip": "54866"
+  },
+  "contact": {
+    "phone": "(489) 730-2471",
+    "servicePhone": "800246153"
+  },
+  "birthday": "2005-02-06T09:59:30.306Z",
+  "ip": "250.55.255.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Rul ekepodu venorcar zuruuju rav fi rid fuczi rowo isemelufo pi maw daw pid ut. Ilumez avod gerga bos izezati deuvila up awza oc nelpolziv zehra woriha sok ruvu dusiazi nuba. Ab gukwi bojosfot dafkepbac wa addad kuuku pimpoba ca nakawba vasnev hedi pel rife kaze ge ba. Wegku coeza zoaviti diwe ejuob ifhuc zuefe uto com pirtipunu hit inuafivo gofuninol howidaf zad.",
+    "bio": "Juzit migauzi uve milmivek wuj gi obpuhu sa fubrowze aje ze bi vamjoah mujed iveviwu jub vif bupnaj. Seenlav ive iraro le pipe pob silalaju be ceseg voba lelamuwa um zeri gocamo ku. Si depceol wub virme ifwizse woek cudedaavi evufoti lefzod dobev nimowe sug ku opu cimhuje rehapkol makej. Sige atece fa ze violi ku ko viro zotaba togsu lob sushi miun. Fonud hubuj udipiskeh ibcidser zutein apadanmas ju fos tacuzu kure ve hi pav decil ojarovi. Lagi kor wewe oc wefulo or gosu walemfa nacuwon tutlu cijhuec julbifje lo."
+  },
+  "apiKey": "9e660daffb2a367cb89d4e9d41e38718ca1bef429b1637dae19b15dd082201fd",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
