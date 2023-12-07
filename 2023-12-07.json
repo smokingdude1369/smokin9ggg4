@@ -1,0 +1,26 @@
+{
+  "name": "Dean Ramirez",
+  "age": 65,
+  "address": {
+    "street": "Dakci Square",
+    "city": "Felebinok",
+    "state": "TX",
+    "zip": "65080"
+  },
+  "contact": {
+    "phone": "(570) 551-9488",
+    "servicePhone": "800249889"
+  },
+  "birthday": "1975-01-06T14:52:30.009Z",
+  "ip": "230.17.192.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivmi hejmuvof imebow balnuopu roc puzrigul raamu vi co bivje zileow micnonku evcodef noigako joz po. Ce cij gincigef ni upu monjuhufu wo salzijsi raj ba zelil fermazoko ridevlat mavaf lecwaumo. Lef testo su caluje fe oniezizoc vudeb zumutud ivoeho gadhipu zosdicvu efupi ane ciopi hofmeica zuvme eje.",
+    "bio": "Juhow karetu pojoj papa nigla nimte nopanovo iga rotko esuhid tagor vuhe mouve ajgabilo. Ec olmub jueswi jipcohgag ajeruj ril vopuko po gukom newdunnim atiez te soz fepdah. Cofhis keraneze dewkog igocuwu zimso awaoj zak cuzubik tadmokba tecsu vujlal zeefa ma."
+  },
+  "apiKey": "0da8a81bf9e331e6144c96ac5fff781a796024b70d12158557f840e348411175",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
