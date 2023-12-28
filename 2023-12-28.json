@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Kim",
+  "age": 63,
+  "address": {
+    "street": "Huref Square",
+    "city": "Dowovi",
+    "state": "UT",
+    "zip": "53271"
+  },
+  "contact": {
+    "phone": "(472) 569-9365",
+    "servicePhone": "800476473"
+  },
+  "birthday": "2003-05-30T02:21:32.137Z",
+  "ip": "232.200.79.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Kitosdat lirjavim ujugu wibigupo bivducap ar ethoci mafu najihub veb kuoso imopvaj mozinkah an davbar. Totazi lub fuffi ju wagsetodo osefad ce ipihuf we wac rekekaw gookevu vocmu puvawlob. Uh viemu ri dar bogasdu tecna giktuc kadnaf tiz par sopadwad funpeto hi.",
+    "bio": "Nine abilit opro rufi oba mu ra naivop nekheata up hunhided ikair bu bohrik lo. Mosej wi imigu mottivpa pa zulamep gowu va bos wej ebi av guclo awakeszij sijce so. Uj ewo fod code sisheuc ralnoh gugwuzzat ruh cospe fik ano wewuz ursuc wig dedenceb pujkatdak raf sucbo. Dogi hihne tog has hugja rapgun naj nenubuke oc ido tezemawe aw zar okji zehzu ikoci. Pebtupoc zafubi niko maneh ozior kuh vo li uloragbuj pimjic ari zimoji kizguwnir pu ugiuwuasi. Te inefe ho awfodi vurpesbo fo itlisob pepmel paz ma ero ces cecec saconjal ru rehosgi. Waw hi tiojudiz mereklo deshaw muddiw owalinto musul wi wow se fekik taja mafur nubuwa ijavo toc op."
+  },
+  "apiKey": "4c425124a32d928dc6b533de4c027ee0a4cabbd92642614b9a2c2a4ce536c11f",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
