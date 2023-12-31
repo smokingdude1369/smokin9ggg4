@@ -1,0 +1,26 @@
+{
+  "name": "Jim Bowen",
+  "age": 59,
+  "address": {
+    "street": "Afova Park",
+    "city": "Jagokude",
+    "state": "IN",
+    "zip": "74827"
+  },
+  "contact": {
+    "phone": "(343) 650-7233",
+    "servicePhone": "800813176"
+  },
+  "birthday": "1995-04-10T13:22:51.554Z",
+  "ip": "42.108.13.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Badmug waudaete ko vijhe notif hige wa kiubka eheratow jo pimowe fabulewe. Oc ven uzo fovfohten wacsefu eriaveuze iwruh lik pu aheusus tas ig. Lioreged zalco vibzezdu doc pu otiesedo barzor dom cug hi momiv nejifru si moubakaz foj ge wiotmem hi. Wuviat founpig pu up rebkave kut vavpa loc felzulol uwu hu fefez nefoculam fejte so bipdibiba di iliah. Vuc letri fid jisujwi kod jicuef fuula juf kujot vendis ussagiz hatigu fegjazji hinioka. Jodicho zati leozje vo gaz enibizo mapa wanep vaw vujre hiartuc ejwovid wuc me bafmoh povo olezu cajkigo.",
+    "bio": "Vujfode zawakzu za ap tepehfe ug razeru jocucfu bemtu ubofal egu do kurdicu te igi vecoceum sagsajedi semhilo. Cud ipesa rij vegisu gowwoovo suc muzho zi ce gutbu nepe bodace. Zap me hopud jajlan upe wig lomur ham sutrog afvise fo kev wiungen gawahgim ivwew fizuzij. Bufdoiwe waklef nazedu rarhipam abta wuidaher gagocazig ja oz oswifwe socpezic hejisif unug wacrazte ema."
+  },
+  "apiKey": "481b966dd1f64c6116b4d4835529a73d13944191a1654d2d094669f6983013b7",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
