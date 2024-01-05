@@ -1,0 +1,26 @@
+{
+  "name": "Adam Kennedy",
+  "age": 60,
+  "address": {
+    "street": "Sofwa Avenue",
+    "city": "Hozluge",
+    "state": "CO",
+    "zip": "15370"
+  },
+  "contact": {
+    "phone": "(410) 757-3623",
+    "servicePhone": "800831884"
+  },
+  "birthday": "1992-05-15T06:44:57.434Z",
+  "ip": "12.24.23.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Abaogob waz tarmub babno waz ciguho giidbot cuzob iwo pa nekare labit osma tav. Lokuc du gekecij cebuswol fa lakeclo lohaoj keeje aza oburil zuz colhojal cedgu guroh. Jef nuud kam ijiikoto tabol cibredre sudiime ipojoseb keiceoka fop henhulet gagucum dazu. Oseofa owujuwogu vatvehipe la bo lepob baavebo japlogis ap heb lovafi fow. Emepous doc icviopi iwava sij atu va ulilitdu ti zosow col ra roji vebimioko jahgoru.",
+    "bio": "Rilef zujjowag mojor ne kuer dopce wevpolih avi zebasah nuol duikefeg vohojokok zeze. Vibifamo ka al jow sovar touje bidik viodat du modes petga fecid mime aklon wid coja. Wap keze ibofukti epduj ligkol jug roluj nu duvoaha adilu nonorso wuj depivefoc tec. Wik me zacoc gikoc raf savwilzo luosi badal zem cejjif ewinum ilaja."
+  },
+  "apiKey": "d05698a3701dfc89e85b8c67b65f9db2bf6022767b9d217fd66346f1489de60c",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
