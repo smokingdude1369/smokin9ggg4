@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Wallace",
+  "age": 39,
+  "address": {
+    "street": "Sitda Lane",
+    "city": "Zowitanas",
+    "state": "HI",
+    "zip": "90175"
+  },
+  "contact": {
+    "phone": "(485) 890-2640",
+    "servicePhone": "800446186"
+  },
+  "birthday": "1980-09-29T11:50:44.676Z",
+  "ip": "232.42.91.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu okmi hukued ibaro aggal evo ugo forgofo getojde cadlek wufav ma is zusmofo medcut zatroopa luane burewi. Pen ogo ru wufol necin molevhu cegi ilmo eraher locedhuf bobuf ruwwug tanaep zav kam netubrig. Ropid rendepoji fetobmot mu upzolle ru baenhav wusciva ajisetza badoreuko nuzez bed ewtesvor ipiburo mawa.",
+    "bio": "Awi azilez giwvicrez oso rouzogej cak wa opwe mudiw ihodinej vaha ke kihwu kobif ilovu ajimi. Noukzew tov osuketec wizjusi mapeha merke fiz cuofo go jus fedul rasefas nu seghekej. Najteg ju pugbom giktifoma habso za luwuni cidah hewisuce olomip pos woz ir egusaj kokpicoka baicicib."
+  },
+  "apiKey": "5908b853c50dfa0316fbd26fe310e26aa1b05384d82edcd85327d91db229b70f",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
