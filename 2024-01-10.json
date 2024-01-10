@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Conner",
+  "age": 62,
+  "address": {
+    "street": "Jumoza Path",
+    "city": "Katlaram",
+    "state": "HI",
+    "zip": "32364"
+  },
+  "contact": {
+    "phone": "(219) 393-7215",
+    "servicePhone": "800721553"
+  },
+  "birthday": "1982-11-08T17:38:11.522Z",
+  "ip": "186.67.70.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu rozbul joofi ivsufis tikaw sa tofco ze awoidode ejtuga duoj roob uwbip rarhi nabmog. Icutibket awoajuawe huzidvo fu tune wihpakba dem teswergup bihol rorevo sel pewa guheku muj bikjam ra ojup tasko. Ihi avecib zobanfar banzizruh kub tavuva giteudu fad huj vahso zo le dera sav. Fefuola behciow tatal mohwo peke ri kegnib wolu moulavir jobhi lojuk ekuhiw cehudo suvoce idivo seuc umwa. Voez govdem ligmekwi mahnuif zesti vu der neb wijkaj eki jukod an. Ithide wiwmub tupa nolo gipdu ose ciforu vus pasge tu aseugauzi icuf ro mo bepakik olcuhvu.",
+    "bio": "Rac pifum cob pivcipwa guho dofuw vo vocoola ri kovizevo fi da tujco. Feb habdej nupadzo asadiok tedajis hefuz dipge oje kurfewse fuvsa disma dir usorabhat omuicubo. Zes vo sip uloileha heruf mamnah ce lufefsa biar fisef vani ezafo lumsa tascig lu loz digna."
+  },
+  "apiKey": "0c71e49da77a7871a1a178eac892013cd4b6a0ff9745748b140942dea56c2bc1",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
