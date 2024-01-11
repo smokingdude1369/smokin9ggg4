@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Chambers",
+  "age": 18,
+  "address": {
+    "street": "Inuabe Mill",
+    "city": "Rocaeso",
+    "state": "HI",
+    "zip": "51127"
+  },
+  "contact": {
+    "phone": "(955) 295-8655",
+    "servicePhone": "800871279"
+  },
+  "birthday": "1983-11-11T06:01:56.830Z",
+  "ip": "132.190.91.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Cop ifobatha ivgaduj gipaka gatul foc vog sutkecuk zamulac no ipilew ilode hahoflop noke uncew. Kooj topfaw cev cu vawo av menfasze ohuvava borcagec huh bortaupa dup mu vi uzipovej usa. Bajifir be poc ricse siiso ovsaveri dad hegenpa zoc jad zejolu lusko padwesu boatilu milri iwnu ahke.",
+    "bio": "Hij hev vunpawjab rah cog miwbe koje gu zirfafdi ve ohviin geg re. Getorege ki tasju cozem ukozuzelu vanibov gibanzur evhuk alozo buhonnah kuszag hupup cos pe. Ki tinla elkob kivnurop konasu vomtib maf nabokoz mu tit el kas ujajowe bob mup."
+  },
+  "apiKey": "bab04c2d8197d90e3337c4b5b3161ba9031d95494f71beae069d3a1af39147c6",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
