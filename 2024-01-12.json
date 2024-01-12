@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Fitzgerald",
+  "age": 38,
+  "address": {
+    "street": "Pokba Turnpike",
+    "city": "Hinovnog",
+    "state": "DC",
+    "zip": "04334"
+  },
+  "contact": {
+    "phone": "(831) 600-6950",
+    "servicePhone": "800784358"
+  },
+  "birthday": "1970-11-27T19:29:35.826Z",
+  "ip": "177.113.14.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Cujinu tehariwa voc lomek jeg ciwkok imo mi capew aw doc zib suopiluf mepi. Ocociva lubjo obeahdip nu luzli ecvuta gavovuf zeltan di iju iheozi acoafge upoil ir cenezogu lew piomgig suhmarnu. Cor ebmolkaw zu we korkez mih rog res habvaf gutof wuanome ore nefmuemo ruj tefdagori.",
+    "bio": "Cep waisena aw sadro bi ojelabteg po mi loeb deve lubja ek atuci. Towaswi poske mebra ke lauru huzothum birlop owik nowpu kav tukudho vur hel ze butcez mufojefo. Roce taimopef de usi sogmosho evisi fuuc nan gimfag wu nasdubce had gib uppuwul bat."
+  },
+  "apiKey": "d4dd92b01fec16592e16ef75e563c29370b4087a687088e7de30c38c21e46c2f",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
