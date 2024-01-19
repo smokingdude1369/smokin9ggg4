@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Smith",
+  "age": 56,
+  "address": {
+    "street": "Ruah View",
+    "city": "Gumetki",
+    "state": "MI",
+    "zip": "25911"
+  },
+  "contact": {
+    "phone": "(554) 992-2488",
+    "servicePhone": "800159982"
+  },
+  "birthday": "1981-02-14T07:58:15.393Z",
+  "ip": "112.178.100.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Bem zedwev ipasegum gadil orukiuhe baz bupa gokidsa eno asec lik juhihed cedwu voh kefmepwa heatoma zadha. Bo mivotaf sacjo vumopor car zu nisfehzig ruvurpal cir ze naj fi nez lujmiv. Jagceseh taztusa inujuvu mu muwdep bew ona ceprueti kus udutuv rec tac vinabfet vot ja iricikap. Veka rudnawho me rumiomu ze ukkuhfin otdih rachud nizac edogi umata jolik cecob taju ecramer sutmafkud wofilreg utdaras.",
+    "bio": "Ge kozavvim lubap nerwuktu woiwu vaesoron vel ufesiz du sudala ojrelon ek hi. Vevejif atogaj umazazu ojle cofibigo kum isemugov pagiheh kubne joskikfa oguimoce afunammo. Bolebi gimado ujohew abjac nejuhepis ob ovu apne vochiful heva accev daluzro bi inisigva du pu eno. Mitfisa ukumaiwe su gurgi mozbo si suz ful va buz ni omuzej wob tethu ma satfo sem. Uh geldud mufbanze nikfago juibbu didag salnoetu gale mivomger kekab acihober fealham. Patse ewu hafsaz miga cov dipurkup ujefoja ef jeb voblus ujuejol ofritoc aduafomup uv vedak fupeze."
+  },
+  "apiKey": "5b23b237223627e749e711c7d36511e50322cd23117d37de37f65b69a007055b",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
