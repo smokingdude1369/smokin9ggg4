@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Sims",
+  "age": 28,
+  "address": {
+    "street": "Mimna Glen",
+    "city": "Hegvanju",
+    "state": "IN",
+    "zip": "41268"
+  },
+  "contact": {
+    "phone": "(323) 913-9616",
+    "servicePhone": "800426929"
+  },
+  "birthday": "1985-04-27T21:42:43.262Z",
+  "ip": "210.59.222.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Posotda nazti ciuzabil guziko ziilgic pongeded pacnosdol cuopeju ok luzma itke epom keforolo zewuv fowizrew sevpijik. Fevcasric mepigah fovanis wazut gomvokiw ti fibuc orupi tuta uwe lub uje fu. Adsicsiv vekcig maw hum liv somiwfin fecrubad nerozre pego ra gajzugira nawgegho pipru jewipvoz nej zos gehaj faomu.",
+    "bio": "Towizfe ke ifapasjeb ubosi to keata fi paru pej bec fugbotob huzor. Igekvil dep wa kemfipa ge ejedif bufca wod holubja hul zipipjaz oh uwolam megwedbur re fev numav asigopif. Ovacovcof muwfor wi dirosrut waehe sanvow di uto ed kugujki zujha zubaip edwi ri ar faob du."
+  },
+  "apiKey": "aa6718f4c7dcd9f489e2194083702a56bc221c6f451d9024bbeda58fa02f8d81",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
