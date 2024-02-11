@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Lowe",
+  "age": 59,
+  "address": {
+    "street": "Jorfan View",
+    "city": "Rezvardi",
+    "state": "IL",
+    "zip": "29901"
+  },
+  "contact": {
+    "phone": "(715) 857-2450",
+    "servicePhone": "800727935"
+  },
+  "birthday": "1961-05-09T19:27:25.594Z",
+  "ip": "36.163.35.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Hicenar zihvepel vaktisob ki pucoko visiv jecib ev nektejeb rubi heubocik geswa hinvi resec tat tootewod jovatih. Sisefi adsohe zif pejocdec rorimuh cem ofni igu ci nijif fubtuhi waic ce. Mipene zuzwud nofgim novej od nocuizo jujgechow ki muncu ropkaizu hanumpa fo.",
+    "bio": "Zapoamo husuf rawdi dajaziime fa samepa sed olebbu epu er re zultob bugpov luf igumevzi zowazu ejfidher. Fer me ge ta vohu ew ecimupu medbu fokup gihob sirjotcum rihi otomac ge eladi jija usmo. Uvgoudo oz kuf dulode cil konapti mimafa okuro kefevu cijo kataw wev ocibiw. Ta mah iwewaldow ij toku pigku omeni ruttec vu paulgej vakvuci lalne ujpu dok hut julujo cucni."
+  },
+  "apiKey": "7f5c2e4359631cffab6904eb6c73a27c8442f1b1f90c799474f301868a9ee29b",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
