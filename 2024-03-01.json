@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Griffin",
+  "age": 56,
+  "address": {
+    "street": "Tutji Lane",
+    "city": "Neronca",
+    "state": "PA",
+    "zip": "92594"
+  },
+  "contact": {
+    "phone": "(876) 590-3739",
+    "servicePhone": "800843257"
+  },
+  "birthday": "1992-04-22T21:25:06.949Z",
+  "ip": "177.150.40.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Huwawna fe lefedza ed fafuneg pa ere tog igfiru kesik favir divfa ima. Bov fu giuko pejkizzal mol edole zot ipbuc ti av zo gocrib subeol zakuro eso bapdulo. Gemotuvu pe gagbe pudodze leaf gibnos casol akaolgu fizlucuho usi dibrilfo nasehhom pasonhuc jamjewful. Kozuevi wojudgal fifir get seoh kec zujfuno ve hatoksop risdi fi jusari wocogme.",
+    "bio": "Pa mekgap diorbi fucifak wicfu jagduvpab osilo pidhu cobajum gaj tibaziz no filefnip panise. Gulam juz nukmeigu uncigfu ibnob osaweruc uv niifi ak gejwivco sora edoliwi jobud kojvezvot elofjo jopgeh kocogo enanaib. Va ho piil ahfeto ibu tu wijhotfa hipa aniwohu fovaed abi ekarivu nug pubifbeh cuk rawkok wew."
+  },
+  "apiKey": "c146641274c0d8fe585f6c02990801d241d9ba29b0d1907cd145f0b3f8b8eebf",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
