@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Castillo",
+  "age": 65,
+  "address": {
+    "street": "Hukvo Path",
+    "city": "Abafume",
+    "state": "WI",
+    "zip": "21345"
+  },
+  "contact": {
+    "phone": "(244) 946-5821",
+    "servicePhone": "800338889"
+  },
+  "birthday": "1975-12-24T00:43:05.112Z",
+  "ip": "88.128.236.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Ide livugike urofa dehmu ruzij hur fe bowudaz ve ih kes fa jos if oprope mane cehovej rulasgon. Agjuh ac let tesawiha gemope nija wu bisol se tojewi ceure biepeloc jeh waepolad ohitej. Tu mubsiv naszig agamujeg zi tij in miba vizumna mohap jepecuk kulnod.",
+    "bio": "Afelulwif bozugisu jurok adfahis fapavo regbohali vuim guco fi mamu wa dechi debsewal tinab rocto biivu keajido begkohpuv. Dijeta wifce zaleslen bunevvu hap vofic pemcodre zod gup jagu mupihi vimbeol woti tic lokilevif. Sawihses tanikza dofbal nid pug tew deresolap wu mabe vicdooza momavebo do efkuk hi zo."
+  },
+  "apiKey": "e36a6b7f8c0e62282f2bb235b24f661df61ce39bc63b263c7e41c47ba9a6d735",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
