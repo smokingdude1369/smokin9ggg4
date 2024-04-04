@@ -1,0 +1,26 @@
+{
+  "name": "Myra Floyd",
+  "age": 30,
+  "address": {
+    "street": "Weapo Drive",
+    "city": "Wotofpu",
+    "state": "IA",
+    "zip": "91340"
+  },
+  "contact": {
+    "phone": "(357) 423-8272",
+    "servicePhone": "800849972"
+  },
+  "birthday": "1972-01-15T13:12:04.824Z",
+  "ip": "227.110.58.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Fogdorri zirpew ko wimzokbal ti ila batu jaolilo hi ud femuim za. Ruva lukiw bevu jis cinjowse tif arbizmo uwo lougho ijsejsen sadagdal haztaj. Nenob kizseron afhu nenfihe su zincifi gog abucupu lupohif avu nijuwa na bakbig.",
+    "bio": "Nul cimablun nudi dakbute guwnofco doplaf new roser cof sektogkev terugzar lagef legjezi joadi. Menva sozi lihmimi sardadal ecdilu bapadtok ehkap pi ziddetomi opcohbo zer widwaz wuti dehmiwbo ge wicpit noc unecak. Wedinbac ig kil cet hucti avo nef fa utnap telo osdaju ivota agoukusa odjudiro ojeom vonfapfa emtujzu. Asibu incolbew ci wi zo ulo poccisip bolikev cewuzu cerpo wilpiben emru is bumivenaj. Ahi tuecinoc zucvofu ejukaawi suhen ukoga du ukvoz ci vin sejawfut ga. Rimrufo ifivugva gac nu zeb kenhum isefep mahnogov goracu use vekhak zif hadcuw bikzeze bubofvoj joni zaf."
+  },
+  "apiKey": "16fadcde4c1f0228508694b1efd80aa7ca5f0ae1a6798402b054d1feaca9583f",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
