@@ -1,0 +1,26 @@
+{
+  "name": "Marie Patton",
+  "age": 32,
+  "address": {
+    "street": "Idupuz Pike",
+    "city": "Eraivuka",
+    "state": "AR",
+    "zip": "34643"
+  },
+  "contact": {
+    "phone": "(424) 792-4196",
+    "servicePhone": "800196144"
+  },
+  "birthday": "1989-05-12T07:35:45.881Z",
+  "ip": "133.204.191.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi niba jocad ukisa buwos oni usujem ditpafo laduswop ni fergif esujoken. Wodi ni ujebol lig hut nibbeviwa wifo fomhu erhan nuhha kaffec luzog. Homkuhes nar ewuica bocem ibgono soj ul fohi ceve rissig duvina ir go gut jo rukes gubephev.",
+    "bio": "Jivu vavhuhbud jukug ujezine fup vijjo ajrica wizi vifimiepu ruf idadir zadak met ve mezbel. Marruf ati jujes siajotic icu zihzogov lo suhide calar paraju agabe gu limegrel ejlu piw oz zukle mawbatojo. Ti afnezle fo sazita fucoda diksu ontuhat sefobdoj zotdofuz onewu necefen uv lugtinoku ucireti."
+  },
+  "apiKey": "7f98da2c682449348ba6873d292849a549103ef59ef0427a70520cbd0e776013",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
